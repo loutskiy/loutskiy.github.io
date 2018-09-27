@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Программист" as Программист {
+ Компьютер
+Программное обеспечение Программировать (Наборы методов, На Swift)
+}
+hide circle
+@enduml
