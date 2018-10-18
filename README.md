@@ -9,3 +9,6 @@
 [Диаграмма классов](https://github.com/loutskiy/loutskiy.github.io/blob/master/Диаграмма%20классов.png)
 
 [Диаграмма прецедентов](https://github.com/loutskiy/loutskiy.github.io/blob/master/Диаграмма%20прецедентов.png)
+
+# Лабароторная работа 2
+[Ramus файл](https://github.com/loutskiy/loutskiy.github.io/blob/master/laba2)
