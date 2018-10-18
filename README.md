@@ -12,3 +12,6 @@
 
 # Лабароторная работа 2
 [Ramus файл](https://github.com/loutskiy/loutskiy.github.io/blob/master/laba2)
+![Первый скрин](https://github.com/loutskiy/loutskiy.github.io/blob/master/laba2_1.png)
+![Второй скрин](https://github.com/loutskiy/loutskiy.github.io/blob/master/laba2_2.png)
+![Третий скрин](https://github.com/loutskiy/loutskiy.github.io/blob/master/laba2_3.png)
