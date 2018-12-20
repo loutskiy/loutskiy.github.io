@@ -60,3 +60,12 @@
 
 ### ERD-модулей
 ![none](ERDModules.png)
+
+### Диаграмма последовательностей
+![none](course_diagram_posled.png)
+
+### Расчеты связанные с проектируемой системой
+
+![none](course_fpa.png)
+
+![none](course_cocomo.png)
