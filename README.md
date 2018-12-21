@@ -73,3 +73,4 @@
 Расчет трудозатрат на разработку "с нуля" методом COCOMO II:
 ![none](course_cocomo.png)
 
+# Курсовая работа [Луцкий М.А.](https://github.com/loutskiy/loutskiy.github.io/blob/master/Kursovaya_Lutskii_M%20Овчинников.docx)
